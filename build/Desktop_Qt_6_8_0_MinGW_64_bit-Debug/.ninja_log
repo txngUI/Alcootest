@@ -1,0 +1,23 @@
+# ninja log v6
+2049	2224	7557938694779752	Alcootest.exe	565f4e9b3c3b650a
+31	186	7557938674609898	C:/Users/tdav8/Documents/c++/Alcootest/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Alcootest_autogen/mocs_compilation.cpp	9ec073bb582c8334
+31	186	7557938674609898	Alcootest_autogen/timestamp	9ec073bb582c8334
+31	186	7557938674609898	Alcootest_autogen/mocs_compilation.cpp	9ec073bb582c8334
+31	186	7557938674609898	C:/Users/tdav8/Documents/c++/Alcootest/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Alcootest_autogen/timestamp	9ec073bb582c8334
+600	2203	7557915105078300	CMakeFiles/Alcootest.dir/Alcootest_autogen/mocs_compilation.cpp.obj	af2b5d230803369
+604	2258	7557915105119078	CMakeFiles/Alcootest.dir/main.cpp.obj	96bf0ccd335af8c0
+187	2048	7557938676159798	CMakeFiles/Alcootest.dir/mainwindow.cpp.obj	da1288eca605732a
+23	60	7551989191289424	CMakeFiles/clean.additional	baedbe210acaa455
+60	70	7551989191658916	clean	577b940aee94fbd7
+29	171	7557939039948352	Alcootest_autogen/timestamp	9ec073bb582c8334
+29	171	7557939039948352	Alcootest_autogen/mocs_compilation.cpp	9ec073bb582c8334
+29	171	7557939039948352	C:/Users/tdav8/Documents/c++/Alcootest/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Alcootest_autogen/timestamp	9ec073bb582c8334
+29	171	7557939039948352	C:/Users/tdav8/Documents/c++/Alcootest/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Alcootest_autogen/mocs_compilation.cpp	9ec073bb582c8334
+172	1940	7557939041369564	CMakeFiles/Alcootest.dir/mainwindow.cpp.obj	da1288eca605732a
+1940	2112	7557939059059992	Alcootest.exe	565f4e9b3c3b650a
+32	183	7557939590558968	Alcootest_autogen/timestamp	9ec073bb582c8334
+32	183	7557939590558968	Alcootest_autogen/mocs_compilation.cpp	9ec073bb582c8334
+32	183	7557939590558968	C:/Users/tdav8/Documents/c++/Alcootest/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Alcootest_autogen/timestamp	9ec073bb582c8334
+32	183	7557939590558968	C:/Users/tdav8/Documents/c++/Alcootest/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Alcootest_autogen/mocs_compilation.cpp	9ec073bb582c8334
+184	2064	7557939592078972	CMakeFiles/Alcootest.dir/mainwindow.cpp.obj	da1288eca605732a
+2065	2240	7557939610878892	Alcootest.exe	565f4e9b3c3b650a
